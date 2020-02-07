@@ -7,7 +7,7 @@ const FooterWrapper = styled.footer`
 background-color: ${colors.secondaryColor};
 padding: 2rem;
 display: flex;
-@media (max-width: 500px){
+@media (max-width: 600px){
   flex-direction: column;
   & > * {
   margin-top: 2rem;
@@ -34,13 +34,15 @@ export default class Footer extends Component {
     render() {
         return (
             <FooterWrapper>
-                <H4OnSecondary>U-reg Pte. Ltd</H4OnSecondary>
+                {/*<H4OnSecondary>U-Reg Pte. Ltd.</H4OnSecondary>*/}
                 {
                     this.state.icons.map((item)=>(
                         <a key={item.id} href="#">{item.icon}</a>
                     ))
                 }
-                <P style={{display: "inline"}}>copyright &copy; 2020 u-reg</P>
+                <P style={{display: "inline"}}>Privacy policy</P>
+                <P style={{display: "inline"}}>Terms of use</P>
+                <P style={{display: "inline"}}>Copyright &copy; 2020 U-Reg</P>
 
             </FooterWrapper>
         );
