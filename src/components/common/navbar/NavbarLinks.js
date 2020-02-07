@@ -15,6 +15,13 @@ const LoginLink = styled.a`
   
   display: block;
 font-size: 1.7rem;
+@media (max-width: 900px) {
+  font-size: 1.5rem
+ }
+ 
+ @media (max-width: 767px) {
+  font-size: 1.4rem
+ }
 text-decoration: none;
 padding: 1rem 0.5rem;
 color: ${colors.primaryColor};
@@ -78,8 +85,14 @@ list-style-type: none;
 .nav-link {
 display: block;
 font-size: 1.7rem;
+ @media (max-width: 900px) {
+  font-size: 1.5rem
+ }
+ @media (max-width: 767px) {
+  font-size: 1.4rem
+ }
 text-decoration: none;
-padding: 1rem 1.2rem;
+padding: 1rem 2.5vw;
 color: ${colors.primaryColor};
 font-weight: 500;
 text-transform: uppercase;
@@ -101,7 +114,7 @@ height: ${(props) => (props.open ? '200px' : '0px')};
   margin: 0 auto;
   .nav-link:hover {
       
-      background-color: ${colors.backgroundColor};
+      background-color: ${colors.surfaceColor};
       color: ${colors.hoverPrimaryColor};
   }
   .loginweb {
@@ -110,8 +123,16 @@ height: ${(props) => (props.open ? '200px' : '0px')};
   background-color: ${colors.primaryColor};
   text-transform: uppercase;
   border-radius: 0.5rem;
-  margin-left: 2rem;
+  margin-left: 5vw;
+  justify-self: flex-end;
+  @media (min-width: 1200px){
+  margin-left: 8vw;
+  }
   //justify-self: flex-end;
+  &:hover {
+    color : ${colors.onPrimary};
+    background-color: ${colors.hoverPrimaryColor};
+  }
   }
 }
 

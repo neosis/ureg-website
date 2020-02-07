@@ -7,7 +7,8 @@ import Header from "../../header";
 import {colors} from "../../../utils/Typography";
 
 const HeaderWrapper = styled.div`
-padding: 1rem 1rem;
+    padding: 1.5rem 1rem;
+    padding-left: 4vw;
     display: flex;
     align-items: center;
     justify-content: space-between;

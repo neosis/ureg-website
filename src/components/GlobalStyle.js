@@ -11,6 +11,7 @@ const GlobalStyle = createGlobalStyle`
  html {
  font-size: 62.5%;
  }
+
  body {
  font-size: 1.7rem;
  font-family: "Source Sans Pro", sans-serif;
