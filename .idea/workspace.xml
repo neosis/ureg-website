@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade042e5-87de-4c54-840d-f2c98d36d2be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/GlobalStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/navbar/NavbarHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/navbar/NavbarIcons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/navbar/NavbarLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/Ureg-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/privacy_wordcloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Careers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Company.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/gatsby-astronaut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="ade042e5-87de-4c54-840d-f2c98d36d2be" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580975309095</updated>
-      <workItem from="1580975310286" duration="27451000" />
+      <workItem from="1580975310286" duration="27596000" />
     </task>
     <servers />
   </component>
