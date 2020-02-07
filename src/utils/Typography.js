@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const colors = {
     primaryColor: "#217FED",
     hoverPrimaryColor: "#4faded",
-    secondaryColor: "",
+    secondaryColor: "#415d8f",
     surfaceColor: "#f5f5f5",
     backgroundColor: "#FFFFFF",
     errorColor: "#B00020",
@@ -240,9 +240,9 @@ export const Text = styled.p`
 `;
 
 export const P = styled.p`
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     line-height: 1.8;
     font-weight: normal;
-    color: ${colors.onSurface};
+    color: #fff;
     margin: 0;
 `;

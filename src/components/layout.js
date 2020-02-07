@@ -9,6 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import GlobalStyle from "./GlobalStyle";
 import Navbar from "./common/navbar/Navbar";
+import Footer from "./common/Footer";
 
 // import "./layout.css"
 
@@ -20,6 +21,7 @@ const Layout = ({children}) => {
             <React.Fragment>
                 <Navbar/>
                 {children}
+                <Footer />
             </React.Fragment>
         </div>
     );

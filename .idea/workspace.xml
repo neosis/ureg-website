@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade042e5-87de-4c54-840d-f2c98d36d2be" name="Default Changelist" comment="" />
+    <list default="true" id="ade042e5-87de-4c54-840d-f2c98d36d2be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/common/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Typography.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Typography.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580975309095</updated>
-      <workItem from="1580975310286" duration="27596000" />
+      <workItem from="1580975310286" duration="31114000" />
     </task>
     <servers />
   </component>
