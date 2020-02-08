@@ -108,7 +108,7 @@ overflow: hidden;
 transition: all 0.5s linear;
 height: ${(props) => (props.open ? '200px' : '0px')};
 
-@media (min-width: 768px){
+@media (min-width: 840px){
   height: auto;
   display: flex;
   margin: 0 auto;

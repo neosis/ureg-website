@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/common/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/navbar/Navbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/common/navbar/NavbarHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/navbar/NavbarHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/navbar/NavbarLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/navbar/NavbarLinks.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580975309095</updated>
-      <workItem from="1580975310286" duration="38422000" />
+      <workItem from="1580975310286" duration="39207000" />
     </task>
     <servers />
   </component>
