@@ -19,7 +19,7 @@ const HeaderWrapper = styled.div`
     cursor: pointer;
     }
     
-    @media (min-width: 768px){
+    @media (min-width: 810px){
         .toggle-icon {
         display: none;
         }
