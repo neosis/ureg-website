@@ -29,7 +29,7 @@ const NavWrapper = styled.nav`
     z-index: 5;
     background-color: ${colors.surfaceColor};
     
-    @media (min-width: 768px) {
+    @media (min-width: 800px) {
       display: flex;
       align-items: center;
     }
