@@ -26,6 +26,7 @@ const HeaderWrapper = styled.div`
     }
 `;
 const ImageLogo = styled.img`
+padding-top: 1rem;
 max-width: 15vw;
 min-width: 15rem;
 `;
